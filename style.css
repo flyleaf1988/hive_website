@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+body {
+    background-color: black;
+    text-align: center;
+}
+.hive-logo {
+    border-radius: 20%;
+    border-color: white;
+    border-style: solid;
+    padding: 5px;
+    margin: 0 auto;
+    width: 400px;  
+    height: 400px; 
+    margin: auto;  
+    margin-bottom: -12%;
+}
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 400%;
+    color: whitesmoke;
+}
+h2 {
+    font-family: 'Russo One', sans-serif;
+    font-size: 100%;
+    color:indianred;
+    margin-top: -2.5%;
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 120%;
+    font-weight: bold;
+    color: lightgrey;
+}
+.center {
+    display: flex; 
+    margin: 10%;
+}
